@@ -20,11 +20,13 @@ Giảng viên: Thầy Nguyễn Lê Minh. 
 4. •	Biểu diễn các đặc trưng thành các vector để đưa vào mô hình máy học Naive Bayes
 5. •	Sử dụng các độ đo để đánh giá kết quả của các mô hình
 	Mô hình dự kiến của phương pháp Naive Bayes, Support Vector Machine
+6. • demo
+	
 
 
 ## Phần 3: Các chức năng chưa hoàn thành:
-1.demo
-2.báo cáo
+1.báo cáo
+2.
 3.
 
 ## Hướng dẫn sử dụng:
